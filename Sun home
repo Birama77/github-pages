@@ -1,0 +1,191 @@
+<!DOCTYPE HTML>
+<html>
+
+<head> 
+<meta charset="utf-8"/>
+<title> SUN HOME </title>
+<link rel= "stylesheet" href= "style.css"/>
+</head>
+
+<body>
+<div id="contenuer">
+<div id="banniere">
+<div id="logo"> <a class="special" href="page d'accueil.html"> <img src="photo.jpg"/> </a>
+</div>
+<div id="slogan"> <img src="0slogan.jpg"/> </div>
+
+<div id="menu_principale">
+<a href="page d'accueil.HTML">ACCUEIL </a> &nbsp;
+<a href="propos.html">A PROPOS </a> &nbsp;
+<a href="Consultation.html">CONSULTATIONS </a> &nbsp;
+<a href="Massage.html">MASSAGES </a> &nbsp;
+<a href="Traitement.html">TRAITEMENTS </a> &nbsp;
+<a href="Produit.html">PRODUITS </a> &nbsp;
+<a href="Temoignages.html">TEMOIGNAGES  </a> &nbsp;
+<a href="offre d'emploi.html"> OFFRES D'EMPLOIE </a> &nbsp;
+<a href="contact.html"> CONTACTS & ADRESSE </a> &nbsp;
+</div> 
+ <div class="PROPOS"> <h1>A PROPOS</h1></div>
+
+<p class="article1"> <strong>SUN HOME </strong> est une entreprise multinationale implantée à Dakar depuis 2019, Quelques années plus tard, l'entreprise a pu développer ses activités à Diourbel, Mbour, Kaolack, Saint-louis et Ziguinchor.L’entreprise offre des services médicaux comme <strong>le QUANTUM ANALYSEUR </strong> qui est une machine qui permet de détecter tous les symptômes du corps, la vente de produits bio et un relaxant <strong>FAUTEUIL de MASSAGE</strong> . SUN HOME offre ces services tout en l'alliant avec le Multi-level Marketing qui est un système qui permet aux adhérants d'avoir des revenues journaliers ou mensuels permettant ainsi donc de participer à l'emploi des jeunes.  <br> <br> <strong>Pour plus d'information cliquer sur les video ci-dessous</strong> </a> </p>
+<div id="image"> <img src="image/Frame 1Z.png"> </div>
+<div id="video">
+<video  controls poster = "sun/Frame 2c.png" >
+<source src= "video/VID-20240318-WA0000.mp4"> </source>
+<source src= "video/VID-20240318-WA0000.ogg"> </source>
+</video>
+</div>
+<div id="viTS">
+<video controls poster=  "image/Frame 3.png" / >
+<source src= "video/video vsb.mp4"width= "716"> </source>
+<source src= "video/video vsb.ogg"> </source>
+</video> 
+
+</div>
+
+
+<div class="CONSULTATION"> <h1>CONSULTATION</h1></div>
+  <div class="CONSUL"> <h3>La MACHINE QUANTUM ANALYSEUR</h3></div>
+ <p class="article2"> C'est une machine dotée d'une technologie de dernière généraration. Connue de par son efficacité, <strong>le QANTUM ANALYSEUR</strong> fait le bilan général de l'ensemble de votre corps afin d'indentifier les anomalies(maladies) et de nous permettre de vous recommender nos produits BIO de qualité.<strong><br> La consultation est à CINQ MILLES FRANC CFA (5.000fcfa).</strong>  <br> <br> <strong>Pour plus d'information cliquer sur les video ci-dessous</strong> </a> </p>
+<div id="videos">
+<video height="350" controls poster= "image/Frame 5.png"/>
+<source src= "sun/DSF.mp4"width= "716"> </source>
+<source src= "sun/DSF.ogg"> </source>
+</video>
+</div>
+<div id="vid">
+<video height="290" controls poster= "sun/Frame 2TY.png"/> 
+<source src= "video/KHKN.mp4"width= "716"> </source>
+<source src= "video/KHKN.ogg"> </source>
+</video>
+</div>
+<div id="vida">
+<video height="290" controls poster= "sun/Frame 2TY.png"/> 
+<source src= "video/fdrt.mp4"width= "716"> </source>
+<source src= "video/fdrt.ogg"> </source>
+</video>
+</div>
+<div class="MASSAGES"> <h1>MASSAGES</h1></div>
+  <div class="MASS"> <h3>FAUTEUIL DE MASSAGE</h3></div>
+ <p class="article3"> Une fauteuil de massage est aussi à votre disposition. Ses bienfaits sont énormes sur la santée.
+<br>-améliore la circulation sanguine
+<br>-équilibre l'oxygéne
+<br>-enléve le stresse
+<br>-appaisie les articulation et douleurs musculaires
+<br>-améliore le sommeil
+<br>-enléve le stresse...  
+ <br> <br> <strong>Pour plus d'information cliquer sur la video ci-dessous</strong></a> </p>
+<div id="videa">
+<video  height="480" controls poster= "sun/Frame 2FTH.png"/> 
+<source src= "video/Azer.mp4"width= "716"> </source>
+<source src= "ivideo/Azer.ogg"> </source>
+</video>
+</div>
+
+<div class="TRAITEMENTS"> <h1>TRAITEMENT</h1></div>
+ <p class="article4"> Apres la consultation avec <strong>le QANTUM ANALYSEUR</strong> qui nous permet de fait le bilan général de l'ensemble de votre corps afin d'indentifier les anomalies(maladies) ce qui nous permettre de vous faire suivre un traitement avec nos produits BIO naturel.<br>Nous traitons les maladies: <strong> diabéte,tension atériels,maladies cardiaque ou pulmonaire,ballonement, constipation,arthrose,rhumatisme,asthme,douleur lombaire,hèmoroide,polyatrite,fibrome ,kiste,miome, régles douloureuses et irrégulière,ejaculation précoce,infertilité,AVC,NERF SCIATIQUE, ndioxume citie et pleins d'autres maladies... </strong> 
+ <br> <br> <strong>Pour plus d'information cliquer sur les video ci-dessous</strong>  </a> </p>
+<div id="videosX">
+<video width="600" height="400" controls poster=  "sun/Frame 02.png" / >
+<source src= "video/ftgu.mp4"width= "716"> </source>
+<source src= "video/ftgu.ogg"> </source>
+</video>
+</div>
+<div id="viT">
+<video controls poster=  "image/Frame 2nbh4.png" / >
+<source src= "video/jhjgggf.mp4"width= "716"> </source>
+<source src= "video/jhjgggf.ogg"> </source>
+</video>
+</div>
+<div id="viTC">
+<video controls poster=  "image/Frame 4.png" / >
+<source src= "video/WWWX.mp4"width= "716"> </source>
+<source src= "video/WWWX.ogg"> </source>
+</video>
+</div>
+<div class="PRODUITS"> <h1>NOS PRODUITS</h1></div>
+ <p class="article5"> <strong>Nous vous presentons quelques prodiuts pour votre santè</strong> </a> </p>
+  <p class="article15"> <br> <br>
+   <strong>Pour plus d'information cliquer sur les video ci-dessous</strong>   </a> </p>
+</div>
+
+<div id="viTCV">
+<video width="300" height="300"controls poster=  "image/Frame 24.png" / >
+<source src= "video/VID-20240306-WA0056.mp4"width= "716"> </source>
+<source src= "video/VID-20240306-WA0056.ogg"> </source>
+</video>
+</div>
+<div id="viTCVWW">
+<video width="300" height="280"controls poster=  "sun/Frame A2.png" / >
+<source src= "video/VID-20240316-WA0026.mp4"width= "716"> </source>
+<source src= "video/VID-20240316-WA0026.ogg"> </source>
+</video>
+</div>
+<div class="article6"> <strong>Nous disposons beaucoups d'autres prodoiuts pour plus d'information veuillez nous contacter
+sur ce numero:781208250</strong>
+<div id="images"> 	
+  <img src="sun/Frame 2vb.png"> 
+  </div>
+<div class="TEMOIGNAGES"> <h1>TEMOIGNAGES</h1></div>
+ <p class="article7"> Nos solutions,ce sont nos clients qui en parle le mieux.Dècouvrez les temoignages adequates de nos clients 
+ <br> <br>
+   <strong>Pour plus d'information cliquer sur les video ci-dessous</strong>   </a> </p>
+</div>
+<div id="viTS6">
+<video height="330" width="330"  controls poster=   >
+<source src= "video/GVBCF.mp4"width= "716"> </source>
+<source src= "video/GVBCF.ogg"> </source>
+</video> 	
+<div id="viTS6V">
+<video height="330" width="330"  controls poster=   >
+<source src= "video/WXCVBN.mp4"width= "716"> </source>
+<source src= "video/WXCVBN.ogg"> </source>
+</video> 
+<div id="viTS67">
+<video height="330" width="330"  controls poster=   >
+<source src= "video/VID-20240316-WA0029.mp4"width= "716"> </source>
+<source src= "video/VID-20240316-WA0029.ogg"> </source>
+</video> 	
+<div id="viTS6V7">
+<video height="330" width="330"  controls poster=   >
+<source src= "video/VID-20240316-WA0021.mp4"width= "716"> </source>
+<source src= "video/VID-20240316-WA0021.ogg"> </source>
+</video> 		
+<div class="offre"> <h1>OFFRE D'EMPLOI</h1></div>
+ <p class="article8"> Sunhome cherche des partenaires pour agrandir son réseau.Votre travail consiste à nous <br>  aider à commercialiser nos produits bio de qualité et d'appareil médicaux.<br> <strong>A savoir que ce n'est pas un travail sur le terrain , tout ce fait sur place</strong>.<br> Pas besoin de CV ni de lettre de motivation.Tout commence par une scéance de formation gratuit au niveau de nos siège pour faire comprendre aux intéressé le mode de fonctionnement de l'entrprise. <br> <br> <br>
+  <strong>NB:Le travail ne consiste pas à vendre des prodiuts sur le terrain</strong> et le travail est alliable avec un autre activité. Que vous soyez,étudiants,travailleurs,employés,etc vous pouvez l'associé  vos activités à ce travail.
+<br> <br>
+   <strong>Pour plus d'information cliquer sur la video ci-dessous</strong>
+   </a> </p>
+</div>
+<div id="viTTT">
+<video controls poster=  "image/Frame 002.png" / >
+<source src= "video/VID-20240320-WA0331.mp4"width= "716"> </source>
+<source src= "video/VID-20240320-WA0331.ogg"> </source>
+</video>
+</div>
+<div id="footer"> 
+<p class="article9">© 2024 All Rights Reserved. Design by SunhomeSN</p> 
+<div id="ADRESSE"> <h3>ADRESSE</h3> 
+  <div id="Localite"> <strong>Localité :</strong>  Dakar ,Mbour, Saint-louis, Diourbel, Kaolack et Ziguinchor
+  </div> 
+  <div id="imagV"> <img height="150" width="170" src="image/Frame 22.png"> </div>
+  <div id="Info"> <h3>INFO</h3> 
+  <div id="inf"> Ouvert du Lundi
+au Samedi de 8h à 16h
+  </div> 
+  
+<div id="Bonus"> <h3>BONUS</h3> 
+   </div>
+<div id="imagVC"> <img height="200" width="200" src="image/Frame 234.png"> </div>
+<div id="Contact"> <h3>CONTACT</h3> 
+  <div id="cont"> Vous pouvez nous contacter:<br><br>TEL: 781208250 <br>MAIL: birama1234diop@gmail.com
+
+  </div>
+  <div class="BNV"> <h1></h1>CONTACTS & ADRESSE</div>
+ 
+</div>	
+
+</body> 
+
+</html>
